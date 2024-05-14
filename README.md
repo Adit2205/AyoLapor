@@ -8,7 +8,7 @@ I Creating a website about public complaints created using the following templat
 
 - Landing pages
 
-<img src="assets/img/landing.jpg" alt="">
+<img src="assets/img/image.png" alt="">
 
 <br>
 
