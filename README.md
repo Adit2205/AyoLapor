@@ -20,5 +20,5 @@ I Creating a website about public complaints created using the following templat
 
 - Dashboard
 
-<img src="assets/img/dashboard.jpg">
+<img src="assets/img/dashboard user.jpeg">
 
