@@ -1,5 +1,5 @@
 # Hello Everyone
-I Creating a website about public complaints created using the following template sb admin 2 and Bootstrap for the frontend and native PHP for the backend
+I Creating a website about public complaints created using Bootstrap for the frontend and native PHP for the backend
 
 <br>
 <h3>website display</h3>
